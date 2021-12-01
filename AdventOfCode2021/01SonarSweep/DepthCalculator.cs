@@ -18,7 +18,7 @@
         private int CalculateDepth(int windowSize)
         {
             return _depthArray
-                    .Where((third, index) => index >= windowSize && third > _depthArray[index - windowSize])
+                    .Where((current, index) => index >= windowSize && current > _depthArray[index - windowSize])
                     .Count();
         }
     }

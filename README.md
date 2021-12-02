@@ -5,4 +5,4 @@ This repository is a compilation of my participation of the [Advent of Code](htt
 ## Statistics
 | Year | Progress |
 |------|----------|
-| 2021 | 2 ⭐      |
+| 2021 | 4 ⭐      |
